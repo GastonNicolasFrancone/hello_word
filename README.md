@@ -1,2 +1,2 @@
 # hello_word
-Estoy aprendiendo a usar un repositorio
+# Me llamo gaston y no tengo idea de esto jaja
